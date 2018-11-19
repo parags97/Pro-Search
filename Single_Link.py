@@ -31,3 +31,5 @@ for elem in tdTags:
     
 toke=filterToken(text.split(' '))
 
+
+asw = set(vis_links)
